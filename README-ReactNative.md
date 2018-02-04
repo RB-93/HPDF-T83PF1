@@ -42,4 +42,6 @@
 * The link of the apk is given here:
  https://drive.google.com/open?id=1hCw3EckoEA5uEK7cgBLi2r5aCdQfQN7R
 
+## Screenshots of React Native mobile app
 
+<img src="README-Assests/Screenshot_2018-02-05-03-30-29-867_com.myapp.png" width = "250" >   <img src="README-Assests/Screenshot_2018-02-05-03-31-06-774_com.myapp.png" width = "250" >  <img src="README-Assests/Screenshot_2018-02-05-03-32-13-033_com.myapp.png" width = "250" > <img src="README-Assests/Screenshot_2018-02-05-03-33-55-669_com.myapp.png" width = "250" > <img src="README-Assests/Screenshot_2018-02-05-03-33-13-471_com.myapp.png" width = "250" > <img src="README-Assests/Screenshot_2018-02-05-03-35-14-475_com.myapp.png" width = "250" > <img src="README-Assests/Screenshot_2018-02-05-03-35-40-791_com.myapp.png" width = "250" > <img src="README-Assests/Screenshot_2018-02-05-03-37-01-069_com.myapp.png" width = "250" > 
