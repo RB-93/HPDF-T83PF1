@@ -5,4 +5,4 @@ This repository contains Python-Flask backend, ReactJS and ReactNative frontend 
 
  Refer to [README-ReactNative.md](README-ReactNative.md) for instructions on using ReactNative code and mobile app APK link
 
- Refer to [README-ReactJS.md](README-ReactJS.md) for instructions on using ReactJS code and web app link
+ Refer to [README-ReactJS.md](README-ReactJS.md) for instructions on using ReactJS code
